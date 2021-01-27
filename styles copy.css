@@ -69,12 +69,8 @@ h1, h2 {
     opacity: 0;
     transition: .5s ease;
     background-color: rgba(256,0,0,0);
-    background-image: linear-gradient(
-        to bottom right,
-        rgb(255, 255, 255, 1) 0%, 
-        rgb(255, 255, 255, .75) 50%,
-        rgba(256,0,0,0) 51%, 
-        rgba(256,0,0,0) 100%);
+    background-image: url(https://www.placecage.com/200/309);
+    background-repeat: round;
     z-index: 2;
     text-indent: 15px;
     line-height: 5px;
