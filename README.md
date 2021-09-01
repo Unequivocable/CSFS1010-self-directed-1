@@ -1,7 +1,7 @@
 # CSFS1010-self-directed-1
 Self Directed assignment 1 for CSFS1010
 
-
+Requirements:
 "Open Sans" from Google Fonts - regular and bold
 
 a 1100px wide wrapper or container (this doesn't absolutely need to be 1100px, maybe you want to work with percentages...) Have fun with it!
